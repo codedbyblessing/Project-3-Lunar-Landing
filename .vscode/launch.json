@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/blessing/Documents/GitHub/Project-3-Lunar-Landing",
+      "program": "/Users/blessing/Documents/GitHub/Project-3-Lunar-Landing/build/Debug/outDebug"
+    }
+  ]
+}
